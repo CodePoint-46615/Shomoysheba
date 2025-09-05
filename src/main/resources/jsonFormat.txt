@@ -1,0 +1,36 @@
+
+Feature 1: Register
+{
+  "name": "Nitai",
+  "email": "dasnitaichandra304@gmail.com",
+  "password": "nnnnnn",
+  "role": "USER"
+}
+
+Feature 2: Login
+{
+  "email": "dasnitaichandra304@gmail.com",
+  "password": "nnnnnn"
+}
+
+Feature 3: View-Profile
+
+Feature 4: Update-Profile
+{
+  "name": "Saikot",
+  "email": "saikotkundu@gmail.com",
+  "password": "ssssss",
+  "role": "ADMIN"
+}
+
+Feature 5: Change-Password
+{
+  "email": "dasnitaichandra304@gmail.com",
+  "oldPassword": "nnnnnn",
+  "newPassword": "iiiiii"
+}
+
+Feature 6: Forget-Password
+{
+  "email": "saikotkundu34708@gmail.com"
+}
